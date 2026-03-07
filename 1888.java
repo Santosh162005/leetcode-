@@ -45,6 +45,9 @@ class Solution {
     }
 }
 
+
+
+
 /*
 type 1 - 
 1 1 1 0 
