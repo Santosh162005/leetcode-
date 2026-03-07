@@ -41,12 +41,8 @@ class Solution {
 
         return ans;
 
-        
     }
 }
-
-
-
 
 /*
 type 1 - 
